@@ -22,7 +22,7 @@ Estudiante de Diseno y Desarrollo de Software en Tecsup.
 - [Guia oficial de Markdown](https://www.markdownguide.org/)
 - [Mi perfil de GitHub](https://github.com/TU-USUARIO)
 ## Captura de mi trabajo
-![Pantalla principal del proyecto](img/Captura.png)
+![Pantalla principal del proyecto](img/Captura.PNG)
 
 
 ## Comandos que mas uso
